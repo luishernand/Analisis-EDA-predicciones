@@ -47,6 +47,7 @@
 - [Bitcoin death and golden cross](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Death%20Cross.ipynb) 
 - [Simple SMA signal buy/sell](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20moving%20Signal.ipynb)  
 - [Bitcoin Daily Simple Return(DSR)](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20Return.ipynb)
+- [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)
 
 
 ## Repositorios de BI 
