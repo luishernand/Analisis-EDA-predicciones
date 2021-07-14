@@ -22,6 +22,7 @@
 3. Bitcoin Death and Golden cross
 4. Simple SMA signal buy/sell  
 5. Bitcoin Daily Simple Return(DSR)
+6. MultiStoreProductForecasting-with-Prophet
 
 # Jupyter Notebooks  
 
