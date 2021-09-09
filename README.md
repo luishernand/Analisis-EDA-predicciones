@@ -23,6 +23,7 @@
 4. Simple SMA signal buy/sell  
 5. Bitcoin Daily Simple Return(DSR)
 6. MultiStoreProductForecasting-with-Prophet
+7. Find The Worst & Best Months To Invest
 
 # Jupyter Notebooks  
 
@@ -47,7 +48,8 @@
 - [Bitcoin death and golden cross](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Death%20Cross.ipynb) 
 - [Simple SMA signal buy/sell](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20moving%20Signal.ipynb)  
 - [Bitcoin Daily Simple Return(DSR)](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20Return.ipynb)
-- [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)
+- [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)  
+- [Find The Worst & Best Months To Invest](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Find%20The%20Worst%20%26%20Best%20Months%20To%20Invest.ipynb)  
 
 
 ## Repositorios de BI 
