@@ -1,6 +1,7 @@
 <img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" heiht= 150 width= 150 alt=" ">  
 
-# Análisis Exploratorio de Datos(EDA), Predicciones contiene:
+# Análisis Exploratorio de Datos(EDA):  
+
 1. Análisis de Churn Rate -Abandono
 2. web scraping
 3. Análisis Deportivo - Liga de Cricket
