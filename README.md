@@ -25,6 +25,7 @@
 5. Bitcoin Daily Simple Return(DSR)
 6. MultiStoreProductForecasting-with-Prophet
 7. Find The Worst & Best Months To Invest
+8. E- Commerce EDA 
 
 # Jupyter Notebooks  
 
@@ -51,6 +52,7 @@
 - [Bitcoin Daily Simple Return(DSR)](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20Return.ipynb)
 - [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)  
 - [Find The Worst & Best Months To Invest](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Find%20The%20Worst%20%26%20Best%20Months%20To%20Invest.ipynb)  
+- [Ecommerce EDA]
 
 
 ## Repositorios de BI 
