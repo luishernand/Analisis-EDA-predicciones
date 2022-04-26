@@ -52,8 +52,7 @@
 - [Bitcoin Daily Simple Return(DSR)](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Simple%20Return.ipynb)
 - [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)  
 - [Find The Worst & Best Months To Invest](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Find%20The%20Worst%20%26%20Best%20Months%20To%20Invest.ipynb)  
-- [Ecommerce EDA]
-
+- [Ecommerce EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb) and see to:[powerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 
 ## Repositorios de BI 
 [Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
