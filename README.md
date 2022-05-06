@@ -26,6 +26,7 @@
 6. MultiStoreProductForecasting-with-Prophet
 7. Find The Worst & Best Months To Invest
 8. E- Commerce EDA 
+9. Modelos para predecir numeros de la loto(Regresion Lineal, Prophet y neural prophet)
 
 # Jupyter Notebooks  
 
@@ -53,6 +54,8 @@
 - [MultiStoreProductForecasting-with-Prophet](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/MultiStoreProductForecasting-with-Prophet.ipynb)  
 - [Find The Worst & Best Months To Invest](https://nbviewer.jupyter.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Find%20The%20Worst%20%26%20Best%20Months%20To%20Invest.ipynb)  
 - [Ecommerce EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb) and see to:[powerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
+- [Predicion numero de la loto prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb)
+- [Predicion de la loto neural prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)
 
 ## Repositorios de BI 
 [Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
