@@ -56,6 +56,7 @@
 - [Ecommerce EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/ecommerce%20EDA.ipynb) and see to:[powerBI](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pbix) and [pdf](https://github.com/luishernand/Inteligencia-de-Negocios/blob/master/ecommerce%20EDA.pdf)
 - [Predicion numero de la loto prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb)
 - [Predicion de la loto neural prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)
+- [Forest EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Forest%20EDA.ipynb)
 
 ## Repositorios de BI 
 [Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
