@@ -27,6 +27,7 @@
 7. Find The Worst & Best Months To Invest
 8. E- Commerce EDA 
 9. Modelos para predecir numeros de la loto(Regresion Lineal, Prophet y neural prophet)
+10. Estadística de los Números de la Loto
 
 # Jupyter Notebooks  
 
@@ -57,6 +58,7 @@
 - [Predicion numero de la loto prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Predicciones_del_loto.ipynb)
 - [Predicion de la loto neural prophet](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Loto_Neural_Prophet.ipynb)
 - [Forest EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Forest%20EDA.ipynb)
+- [Estadistica Loto](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Estadisticas%20Loto.ipynb)
 
 ## Repositorios de BI 
 [Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
