@@ -29,6 +29,7 @@
 9. Modelos para predecir numeros de la loto(Regresion Lineal, Prophet y neural prophet)
 10. Estadística de los Números de la Loto
 11. Análisis Cohort
+12. Análisis de RFM
 
 # Jupyter Notebooks  
 
@@ -61,6 +62,7 @@
 - [Forest EDA](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Forest%20EDA.ipynb)
 - [Estadistica Loto](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Estadisticas%20Loto.ipynb)
 - [Análisis Cohort](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Cohort.ipynb)
+- [Análisis de RFM](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RFM.ipynb)
 
 
 ## Repositorios de BI 
