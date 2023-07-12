@@ -28,6 +28,7 @@
 8. E- Commerce EDA 
 9. Modelos para predecir numeros de la loto(Regresion Lineal, Prophet y neural prophet)
 10. Estadística de los Números de la Loto
+11. Cohort Analisis.
 
 # Jupyter Notebooks  
 
