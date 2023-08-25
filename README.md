@@ -64,6 +64,7 @@
 - [Análisis Cohort](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Cohort.ipynb)
 - [Análisis de RFM](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RFM.ipynb)
 - [RFM vs Kmeans clusters](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RFM.ipynb)
+- [Seasonality Investment](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Seasonality%20Sales%20Market.ipynb)
 
 
 ## Repositorios de BI 
