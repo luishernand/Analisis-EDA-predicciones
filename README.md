@@ -30,6 +30,7 @@
 10. Estadística de los Números de la Loto
 11. Análisis Cohort
 12. Análisis de RFM
+13. Sistema de Recomendación-(GUI)
 
 # Jupyter Notebooks  
 
@@ -65,6 +66,7 @@
 - [Análisis de RFM](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RFM.ipynb)
 - [RFM vs Kmeans clusters](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/RFM.ipynb)  
 - [Seasonality Investment](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Seasonality%20Sales%20Market.ipynb)
+- [Recommendation System](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Recommendation%20System.ipynb)
 
 
 ## Repositorios de BI 
