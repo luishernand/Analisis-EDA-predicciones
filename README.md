@@ -71,5 +71,6 @@
 
 
 
-## Repositorio  
-[Trabajos Realizados](https://github.com/luishernand/repositorios)
+## Carpeta de Proyectos    
+- Aqui encontraras todos mis proyectos de forma organizada  con sus respectivos archivos.  
+[carpeta de proyectos](https://github.com/luishernand/repositorios)
