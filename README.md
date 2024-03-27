@@ -69,8 +69,7 @@
 - [Recommendation System](https://nbviewer.org/github/luishernand/Analisis-EDA-predicciones/blob/master/Recommendation%20System.ipynb)
 
 
-## Repositorios de BI 
-[Inteligencia de Negocios BI](https://luishernand.github.io/Inteligencia-de-Negocios/)
+
 
 ## Repositorio  
-[Análisis por tipo de empresa](https://luishernand.github.io/Mis-proyectos-de-ML-por-tipo-Industrias/)
+[Trabajos Realizados](https://github.com/luishernand/repositorios)
